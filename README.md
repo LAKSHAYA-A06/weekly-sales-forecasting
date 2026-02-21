@@ -1,12 +1,10 @@
-                                                                Weekly Sales Forecasting using Linear Regression
+WEEKLY SALES FORECASTING
 
 Project Overview
 
-This project develops an **interpretable weekly sales forecasting model** for retail stores using **Linear Regression**. The system predicts future sales by incorporating historical sales patterns, economic indicators, and environmental factors.
+This project develops an interpretable weekly sales forecasting model for retail stores using Linear Regression. The system predicts future sales by incorporating historical sales patterns, economic indicators, and environmental factors.
 
-The goal is to provide a **transparent, scalable, and practical forecasting framework** that helps retail businesses improve inventory planning, staffing decisions, and promotional strategies.
-
----
+The goal is to provide a transparent, scalable, and practical forecasting framework that helps retail businesses improve inventory planning, staffing decisions, and promotional strategies.
 
 Objectives
 
