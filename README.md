@@ -1,5 +1,4 @@
-
-Weekly Sales Forecasting using Linear Regression
+                                                                Weekly Sales Forecasting using Linear Regression
 
 Project Overview
 
