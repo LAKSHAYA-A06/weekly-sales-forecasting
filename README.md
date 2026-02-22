@@ -162,7 +162,35 @@ Execute the provided Python script:
 ```bash
 python walmart_sales_forecasting.py
 ```
+🖥️ Running the Streamlit Dashboard
 
+Follow the steps below to launch the interactive sales forecasting dashboard.
+
+Step 1 — Install Required Libraries
+
+Open terminal inside the project folder and install dependencies:
+
+```bash
+
+pip install pandas numpy matplotlib seaborn scikit-learn streamlit joblib
+
+```
+Step 2 — Navigate to Project Folder
+
+Open terminal and move into the project directory:
+```bash
+cd Walmart-demand-ForeCasting
+```
+Step 3 — Run the Streamlit Application
+
+Start the dashboard using:
+```bash
+streamlit run dashboard.py
+```
+If Streamlit command is not recognized, run:
+```bash
+python -m streamlit run dashboard.py
+```
 Outputs generated:
 
 * Cleaned dataset
