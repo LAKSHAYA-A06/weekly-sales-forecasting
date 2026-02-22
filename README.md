@@ -179,7 +179,7 @@ Step 2 — Navigate to Project Folder
 
 Open terminal and move into the project directory:
 ```bash
-cd Walmart-demand-ForeCasting
+cd demand-ForeCasting
 ```
 Step 3 — Run the Streamlit Application
 
