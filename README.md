@@ -92,7 +92,7 @@ cd weekly-sales-forecasting
 Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn joblib
 ```
 
 Train Model
