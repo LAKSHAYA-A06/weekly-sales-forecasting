@@ -160,7 +160,7 @@ Place it in the same directory as your script.
 Execute the provided Python script:
 
 ```bash
-python walmart_sales_forecasting.py
+python walmart_demand_ForeCasting.py
 ```
 🖥️ Running the Streamlit Dashboard
 
@@ -179,7 +179,8 @@ Step 2 — Navigate to Project Folder
 
 Open terminal and move into the project directory:
 ```bash
-cd demand-ForeCasting
+cd QEEKLY-SALES-FORECASTING
+
 ```
 Step 3 — Run the Streamlit Application
 
